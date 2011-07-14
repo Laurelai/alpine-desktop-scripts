@@ -1,3 +1,4 @@
+#!/bin/bash 
 apk update
 apk upgrade
 apk add alpine-desktop gnome-base coreutils binutils procps gradm paxctl irssi tar less nano xf86-input-evdev udev
